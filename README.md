@@ -26,4 +26,4 @@ Culture Credit App respects your privacy. This policy explains how we handle you
 
 ## Contact Us
 If you have questions about this policy, contact us at:
-📧 mrasamny@desu.edu
+📧 Marwan Rasamny <mrasamny@desu.edu>
