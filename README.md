@@ -1,29 +1,14 @@
-# Privacy Policy for Culture Credit App
+![](pemacs-logo.png)
+# Culture Credit App
 
-Culture Credit App respects your privacy. This policy explains how we handle your information when you use our app.
+TThe Culture Credit app is a mobile application created for use by Delaware State University’s College of Agriculture, Science, and Technology (CAST). The idea for Culture Credit originated with the faculty of Computer and Information Sciences, now part of the Division of Physics, Engineering, and Computer Science (PEMaCS). It was inspired by the desire to encourage students to attend scientific and professional development talks, workshops, and seminars, and to foster a mindset of lifelong learning.
 
-## Information We Collect
+CAST students use the app to record attendance at approved events directly from their devices. The credits they earn can then be applied toward additional points at the end of the semester. Instructors participate by voluntarily registering their name and email in the app and including their specific Culture Credit requirements in their course syllabus. Students can then submit their earned credits to the appropriate instructor.
 
-* Calendar data: If you grant permission, the app may access your calendar to help you track and schedule culture credit events.
+The application, which includes both mobile and administrative components, was originally developed as a Senior Capstone project by **Sameer Patel** and **Jerry Benn**.
 
-* Camera: If you grant permission, the app may use your camera to scan QR codes specially designed for marking your attendance at culture credit events.
+## Privacy Statement
+* [Privacy Statement for the mobile app](privacy.html)
 
-* Usage data: We do not collect anonymous usage statistics.
-
-## How We Use Information
-
-* To enable features like culture credit and event attendance tracking.
-
-## Sharing of Information
-
-* We do not sell your personal data.
-
-* We do not use third-party services (such as analytics or cloud storage).
-
-## Your Rights
-
-* You can revoke calendar or camera permissions at any time in your device settings.
-
-## Contact Us
-If you have questions about this policy, contact us at:
-📧 Marwan Rasamny <mrasamny@desu.edu>
+## Support
+* [Support for mobile app](support.html)
