@@ -12,3 +12,6 @@ The application, which includes both mobile and administrative components, was o
 
 ## Support
 * [Support for mobile app](tech-support.html)
+
+## Data Deletion Request
+* [Requesting Account and Data Deletion (data-deletion.html)
