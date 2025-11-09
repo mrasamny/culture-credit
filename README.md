@@ -11,4 +11,4 @@ The application, which includes both mobile and administrative components, was o
 * [Privacy Statement for the mobile app](privacy.html)
 
 ## Support
-* [Support for mobile app](support.html)
+* [Support for mobile app](tech-support.html)
